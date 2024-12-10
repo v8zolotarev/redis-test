@@ -1,1 +1,1 @@
-# redis-test
+Project for learning Redis.
